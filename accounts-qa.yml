@@ -1,0 +1,12 @@
+
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Vishal Pal - QA Lead"
+    email: "pal@eazybank.com"
+  onCallSupport:
+    - (555) 123-1234
+    - (555) 123-1345
