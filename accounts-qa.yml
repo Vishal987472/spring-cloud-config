@@ -3,7 +3,7 @@ build:
   version: 2.0
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIsr tgfdvcx "
+  message: "Welcome to EazyBank accounts related QA API"
   contactDetails:
     name: "Vishal - QA Lead"
     email: "pal@eazybank.com"
