@@ -3,7 +3,7 @@ build:
   version: 2.0
 
 cards:
-  message: "Welcome to EazyBank Cards related QA APIs gfsdfvd"
+  message: "Welcome to EazyBank Cards related QA API"
   contactDetails:
     name: "Vishal Pal - QA Lead"
     email: "pal@eazybank.com"
